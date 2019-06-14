@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\bin\Debug\MaxRemain.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\bin\Debug\MaxRemain.exe
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\bin\Debug\MaxRemain.pdb
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\bin\Debug\MaxRemain.xml
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.exe
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.xml
+C:\Users\Leroy\source\repos\WpfApp1\MaxRemain\obj\Debug\MaxRemain.pdb

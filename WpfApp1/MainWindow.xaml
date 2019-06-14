@@ -1,0 +1,16 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Height="112" Margin="146,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="445" RenderTransformOrigin="0.5,0.5" TextChanged="TextBox_TextChanged"/>
+        <Button Content="calc" HorizontalAlignment="Left" Height="43" Margin="146,221,0,0" VerticalAlignment="Top" Width="170" Click="Button_Click"/>
+        <Button Content="reset" HorizontalAlignment="Left" Height="43" Margin="393,221,0,0" VerticalAlignment="Top" Width="198" Click="Button_Click_1"/>
+        <Label x:Name="Lable1" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="8.058,13.11" Margin="340,313,0,0"/>
+
+    </Grid>
+</Window>

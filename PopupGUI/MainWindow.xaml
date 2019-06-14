@@ -1,0 +1,17 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PopupGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="Random" HorizontalAlignment="Left" Height="32" Margin="138,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="499"/>
+        <TextBox x:Name="Arranged" HorizontalAlignment="Left" Height="32" Margin="138,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="499"/>
+        <Button Content="Generate" HorizontalAlignment="Left" Height="33" Margin="138,302,0,0" VerticalAlignment="Top" Width="499" Click="Button_Click"/>
+        <Label Content="Random Array" HorizontalAlignment="Left" Height="27" Margin="138,46,0,0" VerticalAlignment="Top" Width="148"/>
+        <Label Content="Arranged Array" HorizontalAlignment="Left" Height="27" Margin="138,157,0,0" VerticalAlignment="Top" Width="148"/>
+
+    </Grid>
+</Window>

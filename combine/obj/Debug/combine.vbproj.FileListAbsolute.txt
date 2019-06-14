@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\combine\bin\Debug\combine.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\combine\bin\Debug\combine.exe
+C:\Users\Leroy\source\repos\WpfApp1\combine\bin\Debug\combine.pdb
+C:\Users\Leroy\source\repos\WpfApp1\combine\bin\Debug\combine.xml
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.exe
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.xml
+C:\Users\Leroy\source\repos\WpfApp1\combine\obj\Debug\combine.pdb

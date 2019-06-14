@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\bin\Debug\MultipleList.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\bin\Debug\MultipleList.exe
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\bin\Debug\MultipleList.pdb
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\bin\Debug\MultipleList.xml
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.exe
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.xml
+C:\Users\Leroy\source\repos\WpfApp1\MultipleList\obj\Debug\MultipleList.pdb

@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\choose\bin\Debug\choose.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\choose\bin\Debug\choose.exe
+C:\Users\Leroy\source\repos\WpfApp1\choose\bin\Debug\choose.pdb
+C:\Users\Leroy\source\repos\WpfApp1\choose\bin\Debug\choose.xml
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.exe
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.xml
+C:\Users\Leroy\source\repos\WpfApp1\choose\obj\Debug\choose.pdb

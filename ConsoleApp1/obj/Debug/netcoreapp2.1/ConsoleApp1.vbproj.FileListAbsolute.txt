@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.vb
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

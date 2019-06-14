@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MaxRemainder.deps.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MaxRemainder.runtimeconfig.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MaxRemainder.runtimeconfig.dev.json
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MaxRemainder.dll
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MaxRemainder.pdb
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.AssemblyInfoInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.AssemblyInfo.vb
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.dll
+C:\Users\Leroy\source\repos\WpfApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\MaxRemainder.pdb

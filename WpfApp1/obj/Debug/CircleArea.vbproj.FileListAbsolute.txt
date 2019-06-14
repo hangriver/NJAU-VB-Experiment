@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.xml
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\CircleArea.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\CircleArea.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\CircleArea.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.xml
+C:\Users\Leroy\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

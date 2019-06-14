@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\bin\Debug\GradeLevel.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\bin\Debug\GradeLevel.exe
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\bin\Debug\GradeLevel.pdb
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\bin\Debug\GradeLevel.xml
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.exe
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.xml
+C:\Users\Leroy\source\repos\WpfApp1\GradeLevel\obj\Debug\GradeLevel.pdb

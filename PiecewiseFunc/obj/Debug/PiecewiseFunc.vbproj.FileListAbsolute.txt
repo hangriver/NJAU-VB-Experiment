@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\bin\Debug\PiecewiseFunc.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\bin\Debug\PiecewiseFunc.exe
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\bin\Debug\PiecewiseFunc.pdb
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\bin\Debug\PiecewiseFunc.xml
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.exe
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.xml
+C:\Users\Leroy\source\repos\WpfApp1\PiecewiseFunc\obj\Debug\PiecewiseFunc.pdb

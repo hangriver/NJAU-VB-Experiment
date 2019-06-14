@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\Level\bin\Debug\netcoreapp2.1\Level.deps.json
+C:\Users\Leroy\source\repos\WpfApp1\Level\bin\Debug\netcoreapp2.1\Level.runtimeconfig.json
+C:\Users\Leroy\source\repos\WpfApp1\Level\bin\Debug\netcoreapp2.1\Level.runtimeconfig.dev.json
+C:\Users\Leroy\source\repos\WpfApp1\Level\bin\Debug\netcoreapp2.1\Level.dll
+C:\Users\Leroy\source\repos\WpfApp1\Level\bin\Debug\netcoreapp2.1\Level.pdb
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.AssemblyInfoInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.AssemblyInfo.vb
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.dll
+C:\Users\Leroy\source\repos\WpfApp1\Level\obj\Debug\netcoreapp2.1\Level.pdb

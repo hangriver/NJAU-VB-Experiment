@@ -1,0 +1,11 @@
+C:\Users\Leroy\source\repos\WpfApp1\Popup\bin\Debug\Popup.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\Popup\bin\Debug\Popup.exe
+C:\Users\Leroy\source\repos\WpfApp1\Popup\bin\Debug\Popup.pdb
+C:\Users\Leroy\source\repos\WpfApp1\Popup\bin\Debug\Popup.xml
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.exe
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.xml
+C:\Users\Leroy\source\repos\WpfApp1\Popup\obj\Debug\Popup.pdb

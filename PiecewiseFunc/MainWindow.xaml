@@ -1,0 +1,17 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PiecewiseFunc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="ValueX" HorizontalAlignment="Left" Height="89" Margin="190,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="429"/>
+        <Label Content="X:" HorizontalAlignment="Left" Height="32" Margin="196,19,0,0" VerticalAlignment="Top" Width="54"/>
+        <Label Content="Y:" HorizontalAlignment="Left" Height="52" Margin="196,166,0,0" VerticalAlignment="Top" Width="70"/>
+        <Label x:Name="ValueY" Content="Undifined" HorizontalAlignment="Left" Height="52" Margin="221,166,0,0" VerticalAlignment="Top" Width="174"/>
+        <Button x:Name="calc" Content="Calculate" HorizontalAlignment="Left" Height="70" Margin="464,173,0,0" VerticalAlignment="Top" Width="155"/>
+
+    </Grid>
+</Window>

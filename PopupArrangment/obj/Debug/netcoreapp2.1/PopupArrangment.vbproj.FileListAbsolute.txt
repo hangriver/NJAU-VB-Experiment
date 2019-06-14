@@ -1,0 +1,4 @@
+C:\Users\Leroy\source\repos\WpfApp1\PopupArrangment\obj\Debug\netcoreapp2.1\PopupArrangment.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\PopupArrangment\obj\Debug\netcoreapp2.1\PopupArrangment.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\PopupArrangment\obj\Debug\netcoreapp2.1\PopupArrangment.AssemblyInfoInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\PopupArrangment\obj\Debug\netcoreapp2.1\PopupArrangment.AssemblyInfo.vb

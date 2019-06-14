@@ -1,0 +1,17 @@
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\bin\Debug\Multiple.exe.config
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\bin\Debug\Multiple.exe
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\bin\Debug\Multiple.pdb
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\bin\Debug\Multiple.xml
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.vbprojAssemblyReference.cache
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\MainWindow.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Application.g.vb
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple_MarkupCompile.cache
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple_MarkupCompile.lref
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\MainWindow.baml
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.g.resources
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.Resources.resources
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.vbproj.GenerateResource.cache
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.vbproj.CoreCompileInputs.cache
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.exe
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.xml
+C:\Users\Leroy\source\repos\WpfApp1\Multiple\obj\Debug\Multiple.pdb

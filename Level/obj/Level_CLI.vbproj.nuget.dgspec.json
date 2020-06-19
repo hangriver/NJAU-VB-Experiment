@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leroy\\source\\repos\\WpfApp1\\Level\\Level_CLI.vbproj": {}
+    "C:\\Users\\lhj11\\Documents\\GitHub\\NJAU-VB-Experiment\\Level\\Level_CLI.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Leroy\\source\\repos\\WpfApp1\\Level\\Level_CLI.vbproj": {
+    "C:\\Users\\lhj11\\Documents\\GitHub\\NJAU-VB-Experiment\\Level\\Level_CLI.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leroy\\source\\repos\\WpfApp1\\Level\\Level_CLI.vbproj",
+        "projectUniqueName": "C:\\Users\\lhj11\\Documents\\GitHub\\NJAU-VB-Experiment\\Level\\Level_CLI.vbproj",
         "projectName": "Level_CLI",
-        "projectPath": "C:\\Users\\Leroy\\source\\repos\\WpfApp1\\Level\\Level_CLI.vbproj",
-        "packagesPath": "C:\\Users\\Leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leroy\\source\\repos\\WpfApp1\\Level\\obj\\",
+        "projectPath": "C:\\Users\\lhj11\\Documents\\GitHub\\NJAU-VB-Experiment\\Level\\Level_CLI.vbproj",
+        "packagesPath": "C:\\Users\\lhj11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lhj11\\Documents\\GitHub\\NJAU-VB-Experiment\\Level\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leroy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lhj11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,16 +39,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
